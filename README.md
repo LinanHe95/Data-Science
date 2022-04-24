@@ -2,6 +2,8 @@
 ## The following project using public acessable data on goverment website. Showing all montor vehicle collisions and crashes. Data to be accessed from NYC Open Data 
 ## Using technology such as python for this project, but also imported package such as numpy, pandas, matplotlib, seaborn and folium, All those imported packages helps me to create a visual aspect to the data I am using.
 
+## Alot graphs in the Motor vechile crashes and collisions file will not appear, i has created separated file in this folder with matching name for the unvisual ones.
+
 ## One of the best skill doing this project is able to analyz the data to specfic data set you wanted, than picking what graph or charts best fit for it. 
 
 ## The problems  I has encountered during this project is that I dont know everything to the project. For example: When i decide to create a map visual marker, there is alot more element i need to consider such as longitdude, latitude data and other agruments i need to bring in the function.
